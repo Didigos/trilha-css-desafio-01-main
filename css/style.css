@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-/* @import url('reset.css');
+@import url('reset.css');
 
 body {
     background-color: black; 
@@ -162,6 +162,4 @@ a {
     font-weight: bold;
     color: #65cdfa;
     text-decoration-line: none;
-} */
-
-  
+} 
